@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Micha-L-Davis/testing-and-ci#readme",
   "dependencies": {
+    "dotenv": "^16.0.0",
     "express": "^4.17.3",
     "jest": "^27.5.1",
     "supertest": "^6.2.2"
